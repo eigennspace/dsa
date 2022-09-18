@@ -1,4 +1,4 @@
-package recursion;
+package recursion.learn;
 
 public class RecursiveMethod {
     static void recursiveMethod(int n){

@@ -9,10 +9,6 @@ public class SingleDimensionArray {
         return array;
     }
 
-    public void setArray(int[] array) {
-        this.array = array;
-    }
-
     public SingleDimensionArray(int sizeOfArray){
         array = new int[sizeOfArray];
         Arrays.fill(array, Integer.MIN_VALUE);

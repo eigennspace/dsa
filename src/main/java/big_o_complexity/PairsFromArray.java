@@ -1,4 +1,4 @@
-package recursion.big_o_complexity;
+package big_o_complexity;
 
 import java.util.List;
 

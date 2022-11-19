@@ -1,4 +1,4 @@
-package recursion.big_o_complexity;
+package big_o_complexity;
 
 public class SumProductElements {
     static int sum(int[] a){
